@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-//import  DataRender from './components/DataRender'
+import  DataRender from './components/DataRender'
 
 //import LifeCycleA from './components/LifeCycleA'
 //import LifeCycleB from './components/LifeCycleB'
@@ -26,7 +26,7 @@ function App() {
       <h1 className={styles.success}>Success</h1>*/}
       {/* <FunctionClick />*/}
       {/*<ClassClick />*/}
-      {/*<DataRendaring />*/}
+      <DataRendaring />
       {/*<NamesList />*/}
       {/*<StylesSheet primary={true}/>*/}
     </div>
