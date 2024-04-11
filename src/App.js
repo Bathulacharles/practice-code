@@ -12,6 +12,7 @@ import './App.css'
 //import 'appStyles.css'
 //import styles from './appStyles.module.css';
 //import Form from './components/Form';
+//import pureComponent from './components/pureComponent';
 import pureComponent from './components/pureComponent';
 
 
