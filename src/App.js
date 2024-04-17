@@ -11,9 +11,10 @@ import './App.css'
 //import StylesSheet from './components/StylesSheet';
 //import 'appStyles.css'
 //import styles from './appStyles.module.css';
-//import Form from './components/Form';
+import Form from './components/Form';
 import pureComponent from './components/pureComponent';
 //import pureComponent from './components/pureComponent';
+//import Form from './components/Form';
 
 
 function App() {
